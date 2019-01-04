@@ -1,0 +1,27 @@
+{
+  "name": "react-semantic-ui-example",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "react-scripts": "2.1.2",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^0.84.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom --passWithNoTests",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
